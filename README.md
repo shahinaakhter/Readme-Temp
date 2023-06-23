@@ -14,7 +14,7 @@
 
 <br>  
 
-### Paragraph
+### Paragraph <hr>
 
 ```html
 <p> This is a Paragraph </p>
@@ -22,14 +22,75 @@
 
 <br>
 
-### Important
+### Important <hr>
 
 
 ```
 __This is Bold__
 _This is Italic_
 
+```
+
+<br>
+
+### Image <hr>
 
 
+```
+![Alt text](images/1.jpg)
+```
+![Alt text](images/1.jpg)
 
+<br>
+
+### Link <hr>
+
+[Youtube](https://youtube.com)
+
+```html
+[Link Text](https://youtube.com)
+```
+
+
+<br>
+
+### Link <hr>
+
+1. List One
+2. List Two  
+        2.1. List Two point One
+3. List Three
+
+- One 
+- Two
+    - Two point one
+- Three
+
+```html
+1. List One
+2. List Two  
+        2.1. List Two point One
+3. List Three
+
+- One 
+- Two
+    - Two point one
+- Three
+```
+
+
+<br>
+
+### Table <hr>
+
+| Name | Age |
+|------|-------|
+|Apon| 25|
+|Shahina|25|
+
+```
+| Name | Age |
+|------|-------|
+|Apon| 25|
+|Shahina|25|
 ```
